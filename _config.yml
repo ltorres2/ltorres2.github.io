@@ -1,11 +1,17 @@
-title: John Doe # your name (or website title) here
+title: Laura Torres # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  I am a current a Graduate Student of Geographic and Enviromental System at the University of Maryland and Baltimore County (UMBC).<br>
+  I am From Bogota-Colombia, where I got my BAchellor in Soclial Sciences at the La Gran Colombia University, also I have an Academic Specialization on Culture, Education and Politic from the Colombian National University.<br>
+  I am on my second year of the MAsters program, working on my research is based on themes as migration flows, womens studies, education, community development and others. <br><br>
   Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>As Simon Rodriguez said, “I could be whatever I wanted, but I decide to build schools and
+teach”. <br>In light of this, my long-term goal is to be able to help and contribute in an active<br>
+and constructive way to the development of the societal and academic systems in Latin<br>
+America, or perhaps aid the communication between Latin-American communities and<br>
+other communities in the United States.<br><br>
+  <a href="https://www.linkedin.com/in/carolina-vargas-709902160?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWrQTF2BmRmydRILJVWVeuA%3D%3D">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
