@@ -1,32 +1,28 @@
-## Portfolio
+## First Maps
 
 ---
 
-### Category Name 1 
+### Chapter 2 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Alaska Maps]
+<img src="/images/Chapter 2.jpeg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Chapter 3
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Rivers, Lakes and Airports of Alaska]
+<img src="/images/Chapter 3.jpeg?raw=true"/>
 
 ---
 
+### Chapter 4
+
+- [Geomorphology Map of Alaska and others]
+<img src="/images/Chapter 4.jpeg?raw=true"/>
+<img src="/images/Image 3-02-21 at 3.08 PM.jpeg?raw=true"/>
+
+---
 
 
 
