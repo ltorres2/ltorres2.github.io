@@ -12,9 +12,12 @@ Jovenes Creativos
 
 <a href="https://teachinglatinamericathroughliterature.wordpress.com/2020/05/20/colombias-virtual-cultural-box/L"> <img src="/images/7CE707FC-FE29-4A1B-8F04-9B2581BFCA03.jpeg?raw=true"/> </a> 
 
-### Learn QGIS.Fourth Edition (/Hands-On Geospatial Analysis with R and QGIS/index.md)
+### Learn QGIS.Fourth Edition (/Learn_QGIS_Fourth_Edition/index.md)
 
 In section link you will find the different Labs that are part of Advanced GIS and are based on the book Learn QGIS 4th Edition.
+
+Note: I cound't make an link of my own folders. I have use [] lo be the picture and () to be the link
+
 
 
 
@@ -22,11 +25,10 @@ In section link you will find the different Labs that are part of Advanced GIS a
 
 In section link you will find the different Labs that are part of Advanced GIS and based on the book Hands-On Geospatial Analysis with R and QGIS.
 
-
-[<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 4/4558617E-AD76-412C-8762-45EFB00E50AD.jpeg?raw=true"/>  (/Hands-On Geospatial Analysis with R and QGIS/index)]
-
+[<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 4/4558617E-AD76-412C-8762-45EFB00E50Ad.jpeg?raw=true"/>] (/Hands_On_Geospatial_Analysis_with_R_and_QGIS/index.md)
 
 
+Note: I cound't make an link of my own folders. I have use [] lo be the picture and () to be the link
 
 
 
