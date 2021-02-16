@@ -1,26 +1,47 @@
 ## Chapter 2, 3, 4
 teach about:
- - Data Creation and editing 
- - Data Formats
- - Vector data
- - Raster Data
-**Work description:** In this chapter I had the first experience of learning how to use GIS, whith the creation of Alaska map's that were focoused on different data analysis, as airports, cities, population and toes near by.
+ - Fundamentals of GIS using R and QGIS  GIS in R 
+ - Creating Geospatial Data and getting Data form the Web 
+ - Working with Geospatial Data in QGIS
+ 
+**Work description:** In these chaptere I worked on how to use RStudio and GIS togetter, whith the creation of Bangladesh map's that were using different tools from both systems. the Rstudio allowed me to create new data sets and codes that I was able to run on QGIS.
 
-### Chapter 3
-- [Alaska Maps]
-<img src="/images/Chapter 2.jpeg?raw=true"/>
+### Chapter 2
+- [Adding CSV layers in QGIS]
+
+<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 4/4558617E-AD76-412C-8762-45EFB00E50AD.jpeg?raw=true"/>
+
+<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 2/5664C5E5-6068-476F-8C8E-CCB2BC526A87.jpeg?raw=true"/>
+
+<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 2/43D335C2-1C27-4906-9D3E-3972CB9E9A48.jpeg?raw=true"/>
+
+<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 2/5DFF59F9-CCA0-46DB-A88C-6603E1D43C04.jpeg?raw=true"/>
+
+<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 2/7C04E742-FB22-4526-A31E-79FE720A245B.jpeg?raw=true"/>
 
 ---
 
 ### Chapter 3
 
-- [Rivers, Lakes and Airports of Alaska]
-<img src="/images/Chapter 3.jpeg?raw=true"/>
+- [Digitizing maps]
+
+
+<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 3/25364E22-7B4F-405B-B349-DA2624C20D53.jpeg?raw=true"/>
+
+<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 4/AE748CA2-4A6C-4A55-B08F-A10D3180ABCB.jpeg?raw=true"/>
 
 ---
 
 ### Chapter 4
 
-- [Geomorphology Map of Alaska and others]
-<img src="/images/Chapter 4.jpeg?raw=true"/>
-<img src="/images/Image 3-02-21 at 3.08 PM.jpeg?raw=true"/>
+- [Clipping]
+
+<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 4/4558617E-AD76-412C-8762-45EFB00E50AD.jpeg?raw=true"/>
+
+<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 4/8B1245F1-F3C8-4E19-8DC7-1F25D0AD6D94.jpeg?raw=true"/>
+
+<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 4/BA64EF55-5E9A-4F79-8A08-75DE10D80553.jpeg?raw=true"/>
+
+<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 4/17F98837-8B0D-4086-9ECA-1A6EBBF354DF.jpeg?raw=true"/>
+
+<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 4/966AA575-D0D9-412F-B326-7A2E7F48FCF2.jpeg?raw=true"/>
