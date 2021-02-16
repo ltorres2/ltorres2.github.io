@@ -9,9 +9,9 @@ teach about:
 ### Chapter 2
 - [Adding CSV layers in QGIS]
 
-<img src="Hands-On Geospatial Analysis with R and QGIS/chapter 2/4558617E-AD76-412C-8762-45EFB00E50AD.jpeg?raw=true"/>
+<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 4/4558617E-AD76-412C-8762-45EFB00E50AD.jpeg?raw=true"/>
 
-<img src="Hands-On Geospatial Analysis with R and QGIS/chapter 2/5DFF59F9-CCA0-46DB-A88C-6603E1D43C04.jpeg?raw=true"/>
+<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 2/5664C5E5-6068-476F-8C8E-CCB2BC526A87.jpeg?raw=true"/>
 
 <img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 2/43D335C2-1C27-4906-9D3E-3972CB9E9A48.jpeg?raw=true"/>
 
@@ -25,7 +25,6 @@ teach about:
 
 - [Digitizing maps]
 
-<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 3/43D335C2-1C27-4906-9D3E-3972CB9E9A48.jpeg?raw=true"/>
 
 <img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 3/25364E22-7B4F-405B-B349-DA2624C20D53.jpeg?raw=true"/>
 
