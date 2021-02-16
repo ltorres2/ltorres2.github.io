@@ -12,7 +12,7 @@ Jovenes Creativos
 
 <a href="https://teachinglatinamericathroughliterature.wordpress.com/2020/05/20/colombias-virtual-cultural-box/L"> <img src="/images/7CE707FC-FE29-4A1B-8F04-9B2581BFCA03.jpeg?raw=true"/> </a> 
 
-### Learn QGIS.Fourth Edition (/Learn_QGIS_Fourth_Edition/index.md)
+### [Learn QGIS.Fourth Edition](/Learn_QGIS_Fourth_Edition/index.md)
 
 In section link you will find the different Labs that are part of Advanced GIS and are based on the book Learn QGIS 4th Edition.
 
