@@ -54,7 +54,7 @@ teach about:
 
 In section link you will find the different Labs that are part of Advanced GIS and based on the book Hands-On Geospatial Analysis with R and QGIS.
 
-[<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 4/4558617E-AD76-412C-8762-45EFB00E50AdD.jpeg?raw=true"/>](/Hands_On_Geospatial_Analysis_with_R_and_QGIS/index.md)
+[<img src="/Hands-On Geospatial Analysis with R and QGIS/chapter 2/43D335C2-1C27-4906-9D3E-3972CB9E9A48.jpeg?raw=true"/>](/Hands_On_Geospatial_Analysis_with_R_and_QGIS/index.md)
 
 
 
