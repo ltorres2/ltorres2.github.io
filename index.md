@@ -1,7 +1,12 @@
 ## Portfolio
 
 ---
+### Working in Colombia
+- [I had the opportuniy of bieng part of this amaizing group of teachers that boutgh to the Bogota's community oportunities of growing in ther personal and academic life.]
+ <a href="https://youtu.be/CsW9gm01qoE?list=LL"><img src="ltorres2.github.io/images/3C7550E5-8F23-4F7F-812B-AB26C26E5197.jpeg?raw=true"/></a> 
 
+
+<URL:>
 ### Learn QGIS.Fourth Edition
 ####Chapter 2 
 
