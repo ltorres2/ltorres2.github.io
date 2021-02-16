@@ -12,28 +12,23 @@ Jovenes Creativos
 
 <a href="https://teachinglatinamericathroughliterature.wordpress.com/2020/05/20/colombias-virtual-cultural-box/L"> <img src="/images/7CE707FC-FE29-4A1B-8F04-9B2581BFCA03.jpeg?raw=true"/> </a> 
 
+### Learn QGIS.Fourth Edition(/Learn QGIS 4th Edition/index)
+
+In section link you will find the different Labs that are part of Advanced GIS and are based on the book Learn QGIS 4th Edition.
 
 
-### Learn QGIS.Fourth Edition
-####Chapter 2 
 
-- [Alaska Maps]
-<img src="/images/Chapter 2.jpeg?raw=true"/>
+### Learn QGIS.Fourth Edition(/Hands-On Geospatial Analysis with R and QGIS/index)
 
----
+In section link you will find the different Labs that are part of Advanced GIS and based on the book Hands-On Geospatial Analysis with R and QGIS.
 
-### Chapter 3
 
-- [Rivers, Lakes and Airports of Alaska]
-<img src="/images/Chapter 3.jpeg?raw=true"/>
 
----
 
-### Chapter 4
 
-- [Geomorphology Map of Alaska and others]
-<img src="/images/Chapter 4.jpeg?raw=true"/>
-<img src="/images/Image 3-02-21 at 3.08 PM.jpeg?raw=true"/>
+
+
+
 
 ---
 
