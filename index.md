@@ -3,12 +3,12 @@
 ---
 ### Working in Colombia
 Jovenes Creativos 
-- [I had the opportuniy of bieng part of this amaizing group of teachers that boutgh to one of the most needed communities in Bogota oportunities of growing in ther personal and academic goals, and building with them community aorund the academia.]
+I had the opportuniy of bieng part of this amaizing group of teachers that boutgh to one of the most needed communities in Bogota oportunities of growing in ther personal and academic goals, and building with them community aorund the academia.
 
  <a href="https://youtu.be/CsW9gm01qoE?list=LL"> <img src="/images/3C7550E5-8F23-4F7F-812B-AB26C26E5197.jpeg?raw=true"/> </a> 
 
 ### Working at Latin American and Iberian Studies Institued (LAII) University of New Mexico 
--[At UNM I had the chance of learning about the different cultures and countries that are part of Latin Americas, as also I have the oportunity of build Vamos a leer a group of educational guides for teachers of K-12 that whant to teach culture of Colombia and other countries.]
+At UNM I had the chance of learning about the different cultures and countries that are part of Latin Americas, as also I have the oportunity of build Vamos a leer a group of educational guides for teachers of K-12 that whant to teach culture of Colombia and other countries.
 
 <a href="https://teachinglatinamericathroughliterature.wordpress.com/2020/05/20/colombias-virtual-cultural-box/"> <img src="/images/7CE707FC-FE29-4A1B-8F04-9B2581BFCA03.jpeg?raw=true"/> </a> 
 
