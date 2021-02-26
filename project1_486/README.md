@@ -1,0 +1,15 @@
+- What is the **topic**? 
+- My project topic is migration flows of Venezuelan women to Colombia.
+- What are the **data** and where is the data obtained from (provide links too)? 
+- I will use R data to create database that will cover tweets, news, and facebook status by using the following R packages: 
+- https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html
+- https://cran.r-project.org/web/packages/newsanchor/vignettes/usage-newsanchor.html
+- https://cran.r-project.org/web/packages/Rfacebook/Rfacebook.pdf
+- https://www.earthdatascience.org/courses/earth-analytics/get-data-using-apis/use-twitter-api-r/
+- Are there any necessary **transformations or subsets** you need to do to the data?
+- I think I will have to take most of the data that comes with the topics of : women's migration, venezuelan migration, Venezuela and Colombia, Venezuelans in Colombia;  to have a big chunk of data that will support my desire of use this class as a tool for my research project.
+- What is the **analysis** you'll be performing on your data sets?
+- I want to recognize the main discussion topics that pop up in social media about womens migration in Colombia from Venezuela, the interaction of the media with the topic and how do the society describe and express this migration flows on the social media (Facebook and twitter)
+- What **outputs** will you be creating and how are they directly connected to the class?
+-I expect to have the opportunity and the knowledge of creating maps that shows the relation of social media and migration flows. In a future I will like to produce different maps that can show the impac of the migratory movements to Bogota and how these movements had changed the physical, social, cultural and economic structure of the city.
+These maps are connected to the class because they will use tools like taking data from internet and uploading it into R; creating maps with the data recolected and using the different lybraries that are par of the program; learing how to read maps and data that are made to be used on research projects.
