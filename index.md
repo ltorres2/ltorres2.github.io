@@ -32,7 +32,7 @@ In section link you will find the different Labs that are part of Advanced GIS a
 
 
 
-###[QGIS2WEB Map] (/LAB_5/qgis2web_2021_03_11-22_42_23_785815/)
+###[QGIS2WEB Map](/LAB_5/qgis2web_2021_03_11-22_42_23_785815/)
 
 
     
