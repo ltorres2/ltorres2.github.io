@@ -18,7 +18,7 @@ At UNM I had the chance of learning about the different cultures and countries t
 
 ---
 
-### [Learning QGIS ](/Learn_QGIS_Fourth_Edition/index.md)
+### [Learning QGIS ]
 
 - In section link you will find the different Labs that are part of Advanced GIS and are based on the book Learn QGIS 4th Edition.
 
@@ -42,6 +42,8 @@ In this map I show the increace of Hispanic female population between the two ce
 ---
 
 ### [Project 1. From Around the world to Colombia](/realproject1/README.md)    
+
+[<img src="/images/5B127238-A95E-4A0C-93D3-D71B7B068EE1_1_105_c.jpeg"/>](/realproject1/README.md)   
 
 
 
