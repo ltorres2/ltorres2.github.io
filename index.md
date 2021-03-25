@@ -35,7 +35,7 @@ In section link you will find the different Labs that are part of Advanced GIS a
 ### [QGIS2WEB Map](/LAB_5/qgis2web_2021_03_11-22_42_23_785815/)
 
 
-### [Project 1. From Around the world to Colombia](ltorres2.github.io/realproject1/README.md)    
+### [Project 1. From Around the world to Colombia](/realproject1/README.md)    
 
 
 
