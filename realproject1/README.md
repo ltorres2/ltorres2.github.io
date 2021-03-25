@@ -28,9 +28,9 @@ In base on above, these maps are showing us the consequent migration flows from 
 
 In this part I will be sharing the two maps that were made from the data recollected on DANE’s last census and on ANDA archive data sets. I want to clarify that these maps are a first attempt of the maps that are going to be use for my thesis, recognizing that they are not in their final version. 
 
-## Map 1. Migration to Colombia
+###Map 1. Migration to Colombia
 <img src="/realproject1/migration_to_Colombia_2018.jpg?raw=true"/> 
-## Map 2. Miration Settlements 
+###Map 2. Miration Settlements 
 <img src="/realproject1/migration_settlements_in_Colombia.jpg?raw=true"/> 
 
 ### Conclusions: 
