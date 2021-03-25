@@ -34,7 +34,11 @@ At UNM I had the chance of learning about the different cultures and countries t
 
 ---
 
-[<img src="/images/balt_hispanic_female_2014-19.gif"/>]
+### Baltimore Hispanic Female Population, Census 2014 and 2019
+
+In this map I show the increace of Hispanic female population between the two census of 2014 and 2019.
+
+<img src="/images/balt_hispanic_female_2014-19.gif"/>
 ---
 
 ### [Project 1. From Around the world to Colombia](/realproject1/README.md)    
