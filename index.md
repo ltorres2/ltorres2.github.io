@@ -41,7 +41,7 @@ In this map I show the increace of Hispanic female population between the two ce
 <img src="/images/balt_hispanic_female_2014-19.gif"/>
 ---
 
-### [Project 1. From Around the world to Colombia](/realproject1/README.md)    
+### Project 1. From Around the world to Colombia
 
 [<img src="/images/5B127238-A95E-4A0C-93D3-D71B7B068EE1_1_105_c.jpeg"/>](/realproject1/README.md)   
 
