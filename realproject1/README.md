@@ -25,4 +25,3 @@ MAPAS
 This project has made me realize the difficultness on getting the data to map and the importance of understanding the correct tools to develop and use correctly the different programs. 
 I can conclude that the data recollected on the Colombian census 2018 has shown that the majority of immigrants in Colombia during the census 2018 were coming from Venezuela and the following country was USA. Having in mind that the data is not securing the nationality of these migrants, they can be Colombians returning to their home county. 
 As things to improve I recognize the need of understanding and using better the tools that R-studio and QGIS offer to build maps and create data sets. 
-![image](https://user-images.githubusercontent.com/78166950/112538596-6b48cf80-8d86-11eb-9377-8e2069202194.png)
