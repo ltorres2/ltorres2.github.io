@@ -46,6 +46,8 @@ In this map I show the increace of Hispanic female population between the two ce
 [<img src="/images/5B127238-A95E-4A0C-93D3-D71B7B068EE1_1_105_c.jpeg"/>](/realproject1/README.md)   
 ---
 
+### [LAB 6, Bivariate Mapping](/lab6/README.md) 
+You will find in this Lab a RStudio code that allows to process the data downloaded from the Census 2019, and a map created on QGIS that combine the variables of female Hispanic household in baltimore during 2014 and 2019.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
