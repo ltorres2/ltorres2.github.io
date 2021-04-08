@@ -4,3 +4,4 @@
 <p> After getting all the data and processed it, I finally save it to be use in QGIS to create the maps.</p>
 <p></p>
 ### Second task:
+To develop the secon part of this Lab 6 I have to do a some search to find videos that guided me to create the **Bivariate Map** as QGIS [Choropleth Maps](https://www.youtube.com/watch?v=ttW9ptW7Y74)
