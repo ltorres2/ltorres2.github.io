@@ -6,5 +6,6 @@
 ### Second task:
 To develop the second part of this Lab 6 I have to do a some search to find videos that guided me to create the **Bivariate Map** in QGIS [Choropleth Maps](https://www.youtube.com/watch?v=ttW9ptW7Y74) also I based on the links Dr. Dillon shared with the class [Bivariate choropleth maps in QGIS](https://bnhr.xyz/2019/09/15/bivariate-choropleths-in-qgis.html) and [Bivariate Choropleth Color Generator](https://observablehq.com/@benjaminadk/bivariate-choropleth-color-generator); with all the data collected and the information given in the different links and documents I began to create the following maps:</p>
 
-<p>[Baltimore Latin American Female Household, 2014 and 2019](<img src="/lab6/Baltimore_Household_2014-19.jpg?raw=true"/>) </p>
+<p>Baltimore Latin American Female Household, 2014 and 2019 </p>
 <img src="/lab6/Baltimore_Household_2014-19.jpg?raw=true"/>
+<p> In tis map I am presenting the variables of female Hispanic population from the data census of 2014 and 2019 all combined togeher in one map with the variables of Female Hispanic householld of the same years. 
