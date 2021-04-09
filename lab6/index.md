@@ -14,5 +14,5 @@ To develop the second part of this Lab 6 I have to do a some search to find vide
 
 ### Baltimore Latin American Female Household, 2014 and 2019 
 <img src="/lab6/Baltimore_Household_2014-19.jpg?raw=true"/>
- In tis map I am presenting the variables of female Hispanic population from the data census of 2014 and 2019 all combined togeher in one map with the variables of Female Hispanic householld of the same years. 
+In this map I am presenting the variables of female Hispanic population from the data census of 2014 and 2019mall combined together in one map with the variables of Female Hispanic household of the same years.
 
