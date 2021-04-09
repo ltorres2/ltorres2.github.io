@@ -10,7 +10,7 @@ I had the opportuniy of bieng part of this amaizing group of teachers that boutg
 
 ---
 
-### Working at Latin American and Iberian Studies Institued (LAII) University of New Mexico 
+### Working at Latin American and Iberian Studies Institute (LAII) University of New Mexico 
 
 At UNM I had the chance of learning about the different cultures and countries that are part of Latin Americas, as also I have the oportunity of build Vamos a leer a group of educational guides for teachers of K-12 that whant to teach culture of Colombia and other countries.
 
