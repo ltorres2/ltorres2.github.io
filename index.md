@@ -50,7 +50,7 @@ In this map I show the increace of Hispanic female population between the two ce
 You will find in this Lab a RStudio code that allows to process the data downloaded from the Census 2019, and a map created on QGIS that combine the variables of female Hispanic household in Baltimore, Maryland during 2014 and 2019.
 
 ---
-### [LAB 8, Bivariate WebMep](/LAB8/index.md/)
+### [LAB 8, Bivariate WebMep](LAB8/index.md/)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
