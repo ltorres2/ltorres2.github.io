@@ -53,5 +53,8 @@ You will find in this Lab a RStudio code that allows to process the data downloa
 ### [LAB 8, Bivariate WebMep](LAB8/index.md/)
 
 ---
+###[Final Project](/final_project/qgis2web_2021_05_20-16_37_14_023699/index.html)
+
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
