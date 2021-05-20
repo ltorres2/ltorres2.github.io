@@ -1,4 +1,4 @@
-## Final Priject.
+## Final Project.
  ### Introduction 
  ### Methods 
  Data 
