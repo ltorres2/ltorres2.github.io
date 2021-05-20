@@ -54,7 +54,7 @@ You will find in this Lab a RStudio code that allows to process the data downloa
 
 ---
 
-###[Final Project](/final_project/qgis2web_2021_05_20-16_37_14_023699/index.html)
+### [Final Project](/final_project/index.html)
 
 
 ---
