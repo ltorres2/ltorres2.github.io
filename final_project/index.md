@@ -43,9 +43,9 @@ Once the data was recoded and saved as _geojson_ I begun to create the maps that
 
 #### MAPS
 
-1. [Native American and Indigenous population Over time 2014 - 2019. _GIF_]()
+1. [Native American and Indigenous population Over time 2014 - 2019. _GIF_](/final_project/INPOP_New_Mexico2014-19.gif)
 
-2. [Hispanic Population Over time 2014 - 2019  _GIF_]()
+2. [Hispanic Population Over time 2014 - 2019  _GIF_](/final_project/POP_New_Mexico2014-19.gif)
 
 3. Bivariate Maps of Population and Income
 a. [Native American and Indigenous population and income 2014]()
