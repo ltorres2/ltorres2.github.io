@@ -14,14 +14,18 @@
  ### Methods 
  
  
- <p> To develop this project, I use R-studio to adquire the data and QGIS to create the visualization of the variables </p></p></p> </p> </p>
+ <p> To develop this project, I use R-studio to acquire the data and QGIS to create the visualization of the variables. </p></p></p> </p> </p>
 
 #### Data 
 
-<p> The data was obtaided from THe United States Census Bureau. [More information go to:https://www.census.gov/en.html] </p>
-<p> The variables where shearched in the Social Explorer, Data Dictionary, for the surveys of 2014 and 2019 [More information go to: https://www.socialexplorer.com/data/ACS2019_5yr/metadata/] </p></p></p>
+<p> The data was obtained from THe United States Census Bureau. [More information go to:https://www.census.gov/en.html] </p>
+<p> The variables where searched in the Social Explorer, Data Dictionary, for the surveys of 2014 and 2019 [More information go to: https://www.socialexplorer.com/data/ACS2019_5yr/metadata/] </p></p></p>
 
  ##### R-Studio 
+ <p> In R-Studio I have the opportunity to create a tutorial where I downloaded the Data and Variables from the The United States Census Bureau data base. To Sign-up for a Census API key here is the link [https://api.census.gov/data/key_signup.html], once you have applied for the key you are able to use the key in R-studio to download the disaried data. </p>
+<p> In the following [tutorial](/final_project/Laura_Torres_NM_final_project.html) you would be able to dowland and create geojson files that would be use in QGIS to plot the variables relations maps.  
+ </p></p></p></p>
+ 
 ##### QGIS 
  ### Analysis 
  ### [Webmap]() 
