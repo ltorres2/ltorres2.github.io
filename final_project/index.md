@@ -74,7 +74,7 @@ d. Hispanic Population, income and education [2019](/final_project/HIS_enroll_Ne
 
 5. Webmaps
 a. [Native American and Indigenous population, income  and education factors 2014-2019]()
-b, [Hispanic Population, income and education factors 2014-2019](/final_project/qgis2web_2021_05_21-17_30_30_964646/)
+b, [Hispanic Population, income and superior education factors 2014-2019](/final_project/qgis2web_2021_05_21-17_30_30_964646/index.html)
 
 
  ## Conclutions 
