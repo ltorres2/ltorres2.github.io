@@ -49,13 +49,13 @@ Once the data was recoded and saved as _geojson_ I begun to create the maps that
 
 3. Bivariate Maps of Population and Income:
 
-a. [Native American and Indigenous population and income 2014](/final_project/Bi-ind-New_Mexico2014.jpg)
+a. Native American and Indigenous population and income [2014](/final_project/Bi-ind-New_Mexico2014.jpg)
 
-b. [Native American and Indigenous population and income 2019](/final_project/Bi-ind-New_Mexico2019.jpg)
+b. Native American and Indigenous population and income [2019](/final_project/Bi-ind-New_Mexico2019.jpg)
 
-c. [Hispanic Population and income 2014](/final_project/bi-New_Mexico2014.jpg)
+c. Hispanic Population and income [2014](/final_project/bi-New_Mexico2014.jpg)
 
-d. [Hispanic Population and income 2019](/final_project/bi-New_Mexico2019.jpg)
+d. Hispanic Population and income [2019](/final_project/bi-New_Mexico2019.jpg)
 
 
 4. Bivariate Maps of Population, Income and Education enrollment with the following variables i. Enrollment variable; ii. Not enrolled; iii. College enrollment; iv. Grad enrollment.
