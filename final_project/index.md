@@ -11,7 +11,7 @@ The research question: _Is there a differentiation in New Mexico between Native 
  New Mexico is a state of USA which is located at the Southwest of the country and limits with the states of Arizona, Utah, Colorado, Texas, Oklahoma, and with Mexico country. The geographic location of New Mexico allows the state to be a diverse and unique place to study. New Mexico is known because of the Native American and Indigenous population, and the influence of the Spanish settlements; to these influences we also recognized New Mexico beacuse of the hight level of hispanic influence, identifying it as the resoult of the USA adquisition of New Mexico from Mexico in 1848, as a result of the Mexican War, and the remainder in the 1853 Gadsden Purchase.
  
  
- The vast multicultural influence in New Mexico, its closeness to Mexico, the Native American and Indigienous population, the influence of the Spanish settlements, and the hight level of hispanic influence, has made this State a interesting, important and full of history state; where the inequality and poverty is a big influence factor locating New Mexico in the 3rd place of the poorest states with a _Poverty Rate of 18.2%_  with a 2 million of population which has grown by 1.8%  in the last decade. [More information go to: https://www.safety.com/the-poorest-states-in-america/]. 
+ The vast multicultural influence in New Mexico, its closeness to Mexico, the Native American and Indigienous population, the influence of the Spanish settlements, and the hight level of hispanic influence, has made this State a interesting, important and full of history state; where the inequality and poverty is a big influence factor locating New Mexico in the 3rd place of the poorest states with a _Poverty Rate of 18.2%_  with a 2 million of population which has grown by 1.8%  in the last decade. [More information](https://www.safety.com/the-poorest-states-in-america/). 
  
  As already described New Mexico state is a place that have different influential factors that do influence the correlation between race, education and income. Reason why this project is important; I want to bring attention to the census data that has been obtained in relation all these factors. This project wants to create a product that can be used to analyze the factors that can influence the level of life quality in New Mexico State's community. 
  
@@ -26,8 +26,8 @@ The research question: _Is there a differentiation in New Mexico between Native 
 ### Data 
 
 
-The data was obtained from THe United States Census Bureau. [More information go to:https://www.census.gov/en.html] 
-The variables where searched in the Social Explorer, Data Dictionary, for the surveys of 2014 and 2019 [More information go to: https://www.socialexplorer.com/data/ACS2019_5yr/metadata/] 
+The data was obtained from THe United States Census Bureau. [More information](https://www.census.gov/en.html) 
+The variables where searched in the Social Explorer, Data Dictionary, for the surveys of 2014 and 2019 [More information](https://www.socialexplorer.com/data/ACS2019_5yr/metadata/) 
 
  #### R-Studio 
  
@@ -43,9 +43,9 @@ Once the data was recoded and saved as _geojson_ I begun to create the maps that
 
 #### MAPS
 
-1. [Native American and Indigenous population Over time 2014 - 2019. _GIF_](/final_project/INPOP_New_Mexico2014-19.gif)
+1. Native American and Indigenous population Over time 2014 - 2019. [_GIF_](/final_project/INPOP_New_Mexico2014-19.gif)
 
-2. [Hispanic Population Over time 2014 - 2019  _GIF_](/final_project/POP_New_Mexico2014-19.gif)
+2. Hispanic Population Over time 2014 - 2019 [ _GIF_](/final_project/POP_New_Mexico2014-19.gif)
 
 3. Bivariate Maps of Population and Income
 a. [Native American and Indigenous population and income 2014]()
