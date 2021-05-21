@@ -48,8 +48,8 @@ Once the data was recoded and saved as _geojson_ I begun to create the maps that
 2. Hispanic Population Over time 2014 - 2019 [ _GIF_](/final_project/POP_New_Mexico2014-19.gif)
 
 3. Bivariate Maps of Population and Income
-a. [Native American and Indigenous population and income 2014]()
-b. [Native American and Indigenous population and income 2019]()
+a. [Native American and Indigenous population and income 2014](/final_project/bi-New_Mexico2014.jpg)
+b. [Native American and Indigenous population and income 2019](/final_project/bi-New_Mexico2019.jpg)
 c. [Hispanic Population and income 2014]()
 d. [Hispanic Population and income 2019]()
 
