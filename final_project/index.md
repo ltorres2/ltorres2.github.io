@@ -60,17 +60,11 @@ d. [Hispanic Population and income 2019](/final_project/bi-New_Mexico2019.jpg)
 
 4. Bivariate Maps of Population, Income and Education enrollment
 
-a. Native American and Indigenous population and income 2014
-i. [Enrollment variable]()
-ii. [Not enrolled]()
-iii. [College enrollment]()
-iv. [Grad enrollment]()
+a. Native American and Indigenous population, income and education [2014](/final_project/ed-ind-New_Mexico2014.gif)
 
-b. Native American and Indigenous population and income 2019
-i. [Enrollment variable]()
-ii. [Not enrolled]()
-iii. [College enrollment]()
-iv. [Grad enrollment]()
+
+b. Native American and Indigenous population, income and education [2019](/final_project/ed-ind-New_Mexico2019.gif)
+
 
 c. Hispanic Population and income 2014
 i. [Enrollment variable]()
