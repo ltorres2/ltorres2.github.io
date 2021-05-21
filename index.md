@@ -54,13 +54,7 @@ You will find in this Lab a RStudio code that allows to process the data downloa
 
 ---
 
-### [Final Project](/final_project/index.html)
-
-[llla](/final_project/qgis2web_2021_05_20-17_57_07_645828/)
-
-
-
-
+### [Final Project](/final_project/index.md)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
