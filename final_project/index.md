@@ -79,6 +79,7 @@ a. Native American and Indigenous population, income  and education factors [201
 b, Hispanic Population, income and superior education factors [2014-2019](/final_project/qgis2web_2021_05_21-17_30_30_964646/index.html)
 
 
+
  ## Conclutions 
  
 This project has shown that the indigenous communities have a higher level of enrollment in academic courses than the enrolled variable of the same population. It also shows that the higher income of the state is not in the indigenous reservations or in the indigenous nations, as is the case of Taos NM, La Española, and other counties in New Mexico.
@@ -99,3 +100,21 @@ To finalize, I want to promote the reader to have a trip and meet the beautiful 
  You can see the Rtweet tutorial [here](/final_project/tweeter.html).
  
 Over all, I am glad that I got through the GIS Class and I have learned much more than I expected. I got the opportunity to experience and face new challenges that I was not able to face before.  
+
+
+
+
+
+Note: To see all individual maps click [here](/final_project/finalmaps.pdf)
+
+
+To see all Indigenous 2014 layers click [here](/final_project/indigenous 2014.zip)
+
+
+To see all Indigenous 2019 layers click [here](/final_project/indigenous 2019.zip)
+
+
+To see all Hispnic 2014 layers click [here](/final_project/hispanic 2014.zip)
+
+
+To see all Hispanic 2019 layers click [here](/final_project/hispanic 2019 2.zip)
