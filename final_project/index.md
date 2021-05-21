@@ -32,7 +32,7 @@ The variables where searched in the Social Explorer, Data Dictionary, for the su
  #### R-Studio 
  
  
-In R-Studio I have the opportunity to create a tutorial where I downloaded the Data and Variables from The United States Census Bureau data base. To Sign-up for a Census API key here is the link [https://api.census.gov/data/key_signup.html], once you have applied for the key you are able to use the key in R-studio to download the disaried data. 
+In R-Studio I have the opportunity to create a tutorial where I downloaded the Data and Variables from The United States Census Bureau data base. To Sign-up for a Census API key here is the [link](https://api.census.gov/data/key_signup.html), once you have applied for the key you are able to use the key in R-studio to download the disaried data. 
 
  In the following [tutorial](/final_project/Laura_Torres_NM_final_project.html) you would be able to dowland and create _geojson_ files that would be use in QGIS to plot the variables relations maps.  
 
