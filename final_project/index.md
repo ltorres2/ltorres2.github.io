@@ -44,34 +44,42 @@ Once the data was recoded and saved as _geojson_ I begun to create the maps that
 ##### MAPS
 
 1. [Native American and Indigenous population Over time 2014 - 2019. _GIF_]()
+
 2. [Hispanic Population Over time 2014 - 2019  _GIF_]()
-3. [Bivariate Maps of Population and Income]()
+
+3. Bivariate Maps of Population and Income
 a. [Native American and Indigenous population and income 2014]()
 b. [Native American and Indigenous population and income 2019]()
 c. [Hispanic Population and income 2014]()
 d. [Hispanic Population and income 2019]()
-4. [Bivariate Maps of Population, Income and Education enrollment]() 
-a. [Native American and Indigenous population and income 2014]()
+
+4. Bivariate Maps of Population, Income and Education enrollment
+
+a. Native American and Indigenous population and income 2014
 i. [Enrollment variable]()
 ii. [Not enrolled]()
 iii. [College enrollment]()
 iv. [Grad enrollment]()
-b. [Native American and Indigenous population and income 2019]()
+
+b. Native American and Indigenous population and income 2019
 i. [Enrollment variable]()
 ii. [Not enrolled]()
 iii. [College enrollment]()
 iv. [Grad enrollment]()
-c. [Hispanic Population and income 2014]()
+
+c. Hispanic Population and income 2014
 i. [Enrollment variable]()
 ii. [Not enrolled]()
 iii. [College enrollment]()
 iv. [Grad enrollment.]()
-d. [Hispanic Population and income 2019]()
+
+d. Hispanic Population and income 2019
 i. [Enrollment variable]()
 ii. [Not enrolled]()
 iii. [College enrollment]()
 iv. [Grad enrollment]()
-5. [Webmaps]()
+
+5. Webmaps
 a. [Native American and Indigenous population, income  and education factors 2014-2019]()
 b, [Hispanic Population, income and education factors 2014-2019]()
 
