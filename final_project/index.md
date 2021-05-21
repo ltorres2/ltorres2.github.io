@@ -72,14 +72,26 @@ c. Hispanic Population and income [2014](/final_project/HIS_enrolled_New_Mexico2
 d. Hispanic Population, income and education [2019](/final_project/HIS_enroll_New_Mexico2019.gif)
 
 
-5. Webmaps
-a. [Native American and Indigenous population, income  and education factors 2014-2019](/final_project/indigenousweb/index.html)
-b, [Hispanic Population, income and superior education factors 2014-2019](/final_project/qgis2web_2021_05_21-17_30_30_964646/index.html)
+5. Webmaps:
+
+a. Native American and Indigenous population, income  and education factors [2014-2019](/final_project/indigenousweb/index.html)
+
+b, Hispanic Population, income and superior education factors [2014-2019](/final_project/qgis2web_2021_05_21-17_30_30_964646/index.html)
 
 
  ## Conclutions 
  
- 
+This project has shown that the indigenous communities have a higher level of enrollment in academic courses than the enrolled variable of the same population. It also shows that the higher income of the state is not in the indigenous reservations or in the indigenous nations, as is the case of Taos NM, La Española, and other counties in New Mexico.
+
+In the Hispanic population case, the project has shown that the highest concentration of hispanic population is in the cities of Las Cruces, Santa Fe, Albuquerque and in the prophecy of them. The enrollment of the hispanic population into an education program is higher than the enrollment of the same population. The income of the state is principally centred in the big cities of Santa Fe and Albuquerque.
+
+Overall the project has shown that the education unenrollment is a high percentage in the state between the Native American and Indigenous and the Hispanic communities. In the 3dr poorest state in USA there are kids and communities that are not having the right of schooling; being New Mexico a state with 121,697 mi² are some counties and towns that do not have schooling opportunities. 
+
+I encourage to apply some other variables, such as transportation facilities, language, work, health and number of schools and universities in this research, for furder projects. 
+
+To finalize, I want to promote the reader to have a trip and meet the beautiful land of New Mexico, the people and the great food.
+
+
  ## Difficulties and future improvement 
  
  I Have start this final project with the idea and expectation to create a different map from a Colombian data set form the census of 2005 and 2018; but these data were not in good condition to be used; I expect to inprove my skills and be able to create data bases that I can use to plot different refence maps. In this intent of creating a different project I did learn how to dowloand information of tweets form internte b using R and the funtion of Rtweet. 
