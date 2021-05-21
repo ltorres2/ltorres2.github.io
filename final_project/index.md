@@ -12,9 +12,16 @@
  <p> As already described New Mexico state is a place that have different influential factors that do influence the correlation between race, education and income. Reason why this project is important; I want to bring attention to the census data that has been obtained in relation all these factors. This project wants to create a product that can be used to analyze the factors that can influence the level of life quality in New Mexico State's community. </p>
  
  ### Methods 
- <p>  </p>
+ 
+ 
+ <p> To develop this project, I use R-studio to adquire the data and QGIS to create the visualization of the variables </p></p></p> </p> </p>
+
 #### Data 
-##### R-Studio 
+
+<p> The data was obtaided from THe United States Census Bureau. [More information go to:https://www.census.gov/en.html] </p>
+<p> The variables where shearched in the Social Explorer, Data Dictionary, for the surveys of 2014 and 2019 [More information go to: https://www.socialexplorer.com/data/ACS2019_5yr/metadata/] </p></p></p>
+
+ ##### R-Studio 
 ##### QGIS 
  ### Analysis 
  ### [Webmap]() 
